@@ -171,3 +171,20 @@ button:hover {
     font-size: 50px;
     display: flex;
 }
+
+.services {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 100%;
+}
+
+.services h1 {
+    padding: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    border: rgb(2, 78, 255) solid 3px;
+    text-align: center;
+}
