@@ -11,4 +11,11 @@
     .main-cont-social {
         margin-bottom: 20px;
     }
+    #logo {
+        font-size: 30px;
+    }
+    .logo-img {
+        height: 60px;
+        width: 60px;
+    }
 }
